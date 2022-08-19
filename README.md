@@ -11,9 +11,12 @@ gie clone
 Make sure you are using JDK 1.8 and Maven 3.x
 You can build the project and run the tests by running mvn clean package
 Once successfully built, you can run the service by one of these two methods:
+
         java -jar target/QuestionService-0.0.1-SNAPSHOT.jar
 or
-        mvn spring-boot:run
+
+         mvn spring-boot:run
+
 Check the stdout or boot_example.log file to make sure no exceptions are thrown
 Once the application runs you should see something like this
 
