@@ -41,4 +41,6 @@ Content-Type: application/json
 
 http://localhost:8080/question/clientResponse?qid=bb09a9bc-60b3-40ee-8e4f-ba5d044bbb25&answer=Great. The original question was "Please sum the numbers 1,9,9" and the answer is 19
 
+Resonse :
+
 That’s great
